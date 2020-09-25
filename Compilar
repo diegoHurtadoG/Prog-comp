@@ -1,0 +1,14 @@
+Para compilar en c++:
+
+Ir al directorio del archivo, poner:
+sudo g++ archivo.cpp
+
+Para correr, poner:
+./a.out
+
+
+Si eso no funciona, compilar con:
+sudo g++ -o archivo archivo.cpp
+
+y correr con:
+./archivo
