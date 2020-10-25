@@ -10,12 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4811807c-292f-4945-95bd-cc542ddc7167" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Prog-comp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compilar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorldCup.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Benches.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Candies.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/AreWeStoppingAgain.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/BuyingInBulk.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/CirclesInsideASquare.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/ProblemsetRPC09.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/backtracking.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/backtracking_spoj.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lotto.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worms.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sistemas-Operativos" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +68,19 @@
       <updated>1600910211510</updated>
       <workItem from="1600910212976" duration="5532000" />
       <workItem from="1600999322332" duration="6041000" />
+      <workItem from="1601091210652" duration="8333000" />
+      <workItem from="1601128748454" duration="9438000" />
+      <workItem from="1601241715682" duration="2407000" />
+      <workItem from="1601303989679" duration="1197000" />
+      <workItem from="1601477812519" duration="15262000" />
+      <workItem from="1601579836488" duration="1848000" />
+      <workItem from="1601770161232" duration="23000" />
+      <workItem from="1602118106211" duration="7412000" />
+      <workItem from="1602204635092" duration="1238000" />
+      <workItem from="1602643083491" duration="621000" />
+      <workItem from="1602700524709" duration="8427000" />
+      <workItem from="1602859959307" duration="304000" />
+      <workItem from="1603635286092" duration="491000" />
     </task>
     <servers />
   </component>
@@ -76,9 +95,13 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1601006005374" />
-    <state x="415" y="198" width="592" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600917649154">
+    <state x="415" y="198" width="592" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602725959329">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="415" y="198" width="592" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1600917649154" />
+    <state x="415" y="198" width="592" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1602725959329" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603635775647">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1603635775647" />
   </component>
 </project>
