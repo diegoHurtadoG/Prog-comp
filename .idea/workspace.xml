@@ -10,16 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4811807c-292f-4945-95bd-cc542ddc7167" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Benches.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Candies.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/AreWeStoppingAgain.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/BuyingInBulk.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/CirclesInsideASquare.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/ProblemsetRPC09.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/backtracking.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/backtracking_spoj.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lotto.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Worms.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FenwickTrees.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fenwick.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
     </list>
@@ -49,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sistemas-Operativos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +49,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,6 +85,9 @@
       <workItem from="1602700524709" duration="8427000" />
       <workItem from="1602859959307" duration="304000" />
       <workItem from="1603635286092" duration="491000" />
+      <workItem from="1603764062019" duration="1206000" />
+      <workItem from="1603844402509" duration="40000" />
+      <workItem from="1604082188968" duration="1337000" />
     </task>
     <servers />
   </component>
@@ -99,9 +106,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="415" y="198" width="592" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1602725959329" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603635775647">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603844439879">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1603635775647" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1603844439879" />
   </component>
 </project>
